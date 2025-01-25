@@ -43,7 +43,7 @@
 ## 🌍 Connect With Me
 - **ResearchGate:** [researchgate.net/profile/Prakash-Pant-6](https://www.researchgate.net/profile/Prakash-Pant-6)
 - **LinkedIn:** [https://www.linkedin.com/in/prakash-pant-7786711ab/](https://linkedin.com/in/prakashpant)
-- **YouTube:** [Mathalysis World](https://www.youtube.com/channel/UC...) (Math Visualizations & Olympiad Content)
+- **YouTube:** [Mathalysis World](https://www.youtube.com/@mathalysisworld) (Math Visualizations & Olympiad Content)
 
 <!---
 Prakash2350/Prakash2350 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
