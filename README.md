@@ -1,9 +1,9 @@
-# Hi there! 👋 I'm @Prakash2350
+# Hi there! 👋 I'm Prakash Pant (@Prakash2350)
 
 - 👀 I’m interested in **mathematical research, problem-solving, and computational mathematics.**
 - 🌱 I’m currently learning **numerical simulations, Java, and advanced analysis.**
 - 💞️ I’m looking to collaborate on **mathematical modeling, research projects, and educational initiatives.**
-- 📫 How to reach me: **prakashpant2350@gmail.com**
+- 📫 How to reach me: **prakashpant.np@gmail.com / prakash.pant@uvm.edu**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I represented Nepal at the International Mathematical Olympiad (IMO) and love exploring unsolved problems in mathematics!**
 
@@ -21,6 +21,7 @@
 - **Glocal 20 Under 20 Awardee**
 
 ## 📜 Publications & Papers
+- **Generalization on the Divisibility Rule of Numbers** – A study on extending traditional divisibility rules to broader number systems.
 - **Perpendicular and Base Trisectors in Triangles & Quadrilaterals** – Research paper from Gandaki Boarding School.
 - **Reducing Food Waste in School Cafeterias** – Mathematical modeling paper (NMMC 2023).
 - **Optimal Land Use Modeling** – Research paper (IMMC 2023).
@@ -31,6 +32,7 @@
 - **Tools & Libraries:** Manim, NumPy, MySQL, GitHub, Lean, Coq
 
 ## 📚 Blog & Writing
+- **12 Proofs of Nesbitt's Inequality and Its Generalization** – Exploring multiple approaches to proving Nesbitt's Inequality and its extensions.
 - Written a book: **A Beautiful Journey Through Introductory Calculus**
 - Articles & Olympiad problem solutions on **Mathalysis World** YouTube channel
 
@@ -39,6 +41,7 @@
 - Sharing Olympiad-level math solutions & code snippets
 
 ## 🌍 Connect With Me
+- **ResearchGate:** [researchgate.net/profile/Prakash-Pant-6](https://www.researchgate.net/profile/Prakash-Pant-6)
 - **LinkedIn:** [linkedin.com/in/prakashpant](https://linkedin.com/in/prakashpant)
 - **Twitter:** [twitter.com/prakash_math](https://twitter.com/prakash_math)
 - **YouTube:** [Mathalysis World](https://www.youtube.com/channel/UC...) (Math Visualizations & Olympiad Content)
