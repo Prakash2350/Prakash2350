@@ -42,8 +42,7 @@
 
 ## 🌍 Connect With Me
 - **ResearchGate:** [researchgate.net/profile/Prakash-Pant-6](https://www.researchgate.net/profile/Prakash-Pant-6)
-- **LinkedIn:** [linkedin.com/in/prakashpant](https://linkedin.com/in/prakashpant)
-- **Twitter:** [twitter.com/prakash_math](https://twitter.com/prakash_math)
+- **LinkedIn:** [https://www.linkedin.com/in/prakash-pant-7786711ab/](https://linkedin.com/in/prakashpant)
 - **YouTube:** [Mathalysis World](https://www.youtube.com/channel/UC...) (Math Visualizations & Olympiad Content)
 
 <!---
